@@ -1,0 +1,20 @@
+body {
+  margin: 0px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+div {
+  margin: 0px;
+  padding: 0px;
+}
+
+.foo {
+  background-color: skyblue;
+  color: #000000;
+}
+
+.bar {
+  background-color: #ff0000;
+  color: #000000;
+}
